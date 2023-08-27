@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_background">#414141</color>
+    <color name="status_bar">#2D2D2D</color>
+    <color name="app_text_color">#FFFFFF</color>
+    <color name="colorProgressBar">#FC1302</color>
+    <color name="color_5C5470_FAF0E6">#FAF0E6</color>
+    <color name="color_FAF0E6_5C5470">#5C5470</color>
+    <color name="scan_bottom_nav_bar_selected_color_9C9C9F_FAF0E6">#FAF0E6</color>
+    <color name="scan_bottom_nav_bar_selected_color_352F44_9C9C9F">#9C9C9F</color>
+</resources>
